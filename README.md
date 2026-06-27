@@ -17,22 +17,21 @@ Prerequisites
     Android SDK (Target API Level 34+)
 
     Gradle Version JDK 17+ compatible
-    
+
 Running the Project Locally
 
     Clone the repository:
-    Bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-    cd YOUR_REPOSITORY_NAME
+
+Bash
+
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+cd YOUR_REPOSITORY_NAME
 
     Open with Android Studio:
-
-        Launch Android Studio, select File > Open, and choose the project root folder.
+    Launch Android Studio, select File > Open, and choose the project root folder.
 
     Sync Gradle:
-
-        Let the IDE download the background dependencies and finish building index targets.
+    Let the IDE download the background dependencies and finish building index targets.
 
     Run the app:
-
-        Connect a physical device via ADB debugging or start an Android Emulator instance, then click the Run button (or press Shift + F10).
+    Connect a physical device via ADB debugging or start an Android Emulator instance, then click the Run button (or press Shift + F10).
